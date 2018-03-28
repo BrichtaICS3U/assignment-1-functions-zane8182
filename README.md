@@ -6,9 +6,9 @@ Temperature Conversion
 
 There are many parts to this assignment. See how far you can get!
 
-1. Create a program that will convert a temperature in Celsius to Fahrenheit. The program should ask the user to enter the temperature in Celsius and should print out the temperature in Fahrenheit to the nearest whole number. Use the equation F= (1.8)+C+32. The conversion should be done in a function called CtoF. [3 marks]
+1. Create a program that will convert a temperature in Celsius to Fahrenheit. The program should ask the user to enter the temperature in Celsius and should print out the temperature in Fahrenheit to the nearest whole number. Use the equation F= (1.8)*C+32. The conversion should be done in a function called CtoF. [3 marks]
 
-2. Now modify the program so that it will also convert from Fahrenheit to Celsius. This conversion should be done in a function called FtoC. Print out your result to the nearest whole number. You will have to ask the user which conversion they want to do.  (HINT: You will need to use an if statement).  NOTE:  C = (0.55556)(F - 32). [2 marks]
+2. Now modify the program so that it will also convert from Fahrenheit to Celsius. This conversion should be done in a function called FtoC. Print out your result to the nearest whole number. You will have to ask the user which conversion they want to do.  (HINT: You will need to use an if statement).  NOTE:  C = (0.55556)*(F-32) [2 marks]
 
 3. Now modify the program so that it checks to make sure valid inputs are made and tells the user if they have entered invalid data.  The program exits when the user enters invalid data. [1 mark]
 
