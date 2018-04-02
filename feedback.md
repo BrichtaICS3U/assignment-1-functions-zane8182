@@ -1,6 +1,6 @@
 FEEDBACK
 
-Line 10 Typo -> Celcius, Fahrenheit
+Line 10 Typo -> Fahrenheit
 
 Line 19 Awkward sentence (with typos)
 
